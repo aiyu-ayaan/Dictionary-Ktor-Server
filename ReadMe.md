@@ -20,8 +20,8 @@ from an external dictionary API.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-github-username/Dictionary-KMP.git
-cd Dictionary-KMP
+git clone https://github.com/aiyu-ayaan/Dictionary-Ktor-Server
+cd Dictionary-Ktor-Server
 ```
 
 ### Setting Up the Ktor Server
