@@ -193,7 +193,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## GitHub
 
 [Dictionary KMP GitHub Repo](https://github.com/aiyu-ayaan/Dictionary-KMP)
-
-```
-
-Make sure to replace the `your-github-username` with your actual GitHub username and update version numbers of the Ktor dependencies accordingly.
